@@ -6,16 +6,17 @@ EOS Argentina is a Block producer and infrastructure provider for many Blockchai
 |---	|---	|---	|
 |   EOS	|   https://api.eosargentina.io	|  p2p.eosargentina.io:5222 	|
 | TELOS | https://telos.eosargentina.io | p2p.telos.eosargentina.io:9876 |
-| ORE | https://ore.eosargentina.io | 
+| ORE | https://ore.eosargentina.io | |
 
 
 ## Testnets
 
 | Blockchain  	| API  	|  P2P 	|
 |---	|---	|---	|
-|   Kylin Testnet	|  https://kylin.eosargentina.io	 	|  kylin.eosargentina.io:1337 	|
-|   Jungle Testnet	|  https://jungle.eosargentina.io	 	|   	|
-|   Telos Testnet	|  https://telos.eosargentina.io	 	|   api.testnet.telos.eosargentina.io:9870	|
+|   Kylin	|  https://kylin.eosargentina.io	 	|  kylin.eosargentina.io:1337 	|
+|   Jungle	|  https://jungle.eosargentina.io	 	|   	|
+|   Telos	|  https://telos.eosargentina.io	 	|   api.testnet.telos.eosargentina.io:9870	|
+|   Wax	|  api.testnet.wax.eosargentina.io 	|  p2p.testnet.wax.eosargentina.io 	|
 
 <br>
 
