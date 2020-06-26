@@ -20,7 +20,8 @@ EOS Argentina is a Block producer and infrastructure provider for many Blockchai
 <br>
 <br>
 
-
-<center>© 2020 EOS Argentina</center>
-
-<center>[Support](https://t.me/EOSarg)</center>
+<p align="center">
+© 2020 EOS Argentina</p>
+<p align="center">
+[Support](https://t.me/EOSarg)
+</p>
