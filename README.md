@@ -17,6 +17,7 @@ EOS Argentina is a Block producer and infrastructure provider for many Blockchai
 |   Jungle	|  https://jungle.eosargentina.io	 	|   	|
 |   Telos	|  https://telos.eosargentina.io	 	|   api.testnet.telos.eosargentina.io:9870	|
 |   Wax	|  api.testnet.wax.eosargentina.io 	|  p2p.testnet.wax.eosargentina.io 	|
+|   Lacchain	|  http://api2.testnet.lacchain.eosargentina.io	 	|  p2p.lacchain-testnet.eosargentina.io 	|
 
 <br>
 
