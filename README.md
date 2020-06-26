@@ -7,7 +7,7 @@ EOS Argentina is a Block producer and infrastructure provider for many Blockchai
 |   EOS	|   https://api.eosargentina.io	|  p2p.eosargentina.io:5222 	|
 | TELOS | https://telos.eosargentina.io | p2p.telos.eosargentina.io:9876 |
 | MEETONE | https://meetone.eosargentina.io | meetone.eosargentina.io:9876 |
-| ORE | https://ore.eosargentina.io | |
+| ORE | https://ore.eosargentina.io | ore.eosargentina.io:9876|
 
 
 ## Testnets
