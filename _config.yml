@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
 title: EOS Argentina's Nodes
 description: Public Endpoints
-logo: /images/logo_eosar.png
+#logo: /images/logo_eosar.png
 show_downloads: true
