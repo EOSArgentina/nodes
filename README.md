@@ -1,4 +1,4 @@
-![EOS_AR_LOGO](/images/logo.png)
+![](/images/logo_eosar.png)
 
 EOS Argentina is a Block producer and infrastructure provider for many Blockchains. Below we provide our public API endpoints and peering information. 
 
